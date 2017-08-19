@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "mongojs": "^2.4.1",
+    "mongoose": "^4.11.7",
     "morgan": "^1.8.2",
     "react": "^15.6.1",
     "react-dom": "^15.6.1"
